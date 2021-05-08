@@ -1,7 +1,7 @@
 # EFK
 
 **Docker Compose**
-This article explains how to collect Docker logs and propagate them to EFK (Elasticsearch + Fluentd + Kibana) stack. The example uses Docker Compose for setting up multiple containers.
+This article explains how to collect Docker logs and propagate them to EFK (Elasticsearch + Fluentd + Kibana) stack. The example uses Docker Compose for setting up multiple containers..
 
 
 **Kibana**
